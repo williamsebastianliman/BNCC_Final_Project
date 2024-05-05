@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2355" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/drawable/ic_area_calculator.xml" value="0.2355" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/drawable/ic_counter.xml" value="0.2355" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/drawable/ic_icon_default_background.xml" value="0.113" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/drawable/ic_icon_default_foreground.xml" value="0.113" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2355" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/drawable/ic_volume_calculator.xml" value="0.2355" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/layout/activity_login.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/layout/activity_main.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/layout/activity_register.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/layout/fragment_area_calculator.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/layout/fragment_counter.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/layout/fragment_volume_calculator.xml" value="0.1" />
+        <entry key="..\:/Users/WILLIAM S L/AndroidStudioProjects/BNCC2/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.35572916666666665" />
+      </map>
+    </option>
+  </component>
+</project>

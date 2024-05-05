@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shapes_array">
+        <item>Persegi Panjang</item>
+        <item>Segitiga</item>
+        <item>Lingkaran</item>
+    </string-array>
+    <string-array name="volumes_array">
+        <item>Balok</item>
+        <item>Piramid</item>
+        <item>Tabung</item>
+    </string-array>
+</resources>
+

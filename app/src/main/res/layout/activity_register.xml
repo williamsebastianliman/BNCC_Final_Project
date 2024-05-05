@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/registrationForm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_centerInParent="true">
+
+            <TextView
+                android:id="@+id/titleText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Register Page"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textStyle="bold"
+                android:textSize="24sp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="16dp"/>
+
+            <EditText
+                android:id="@+id/idBimbel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter your Bimbel ID"
+                android:inputType="text"
+                android:minHeight="48dp" />
+
+            <EditText
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter your name"
+                android:inputType="textPersonName"
+                android:minHeight="48dp" />
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter your email"
+                android:inputType="textEmailAddress"
+                android:minHeight="48dp" />
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Create a password"
+                android:inputType="textPassword"
+                android:minHeight="48dp" />
+
+            <EditText
+                android:id="@+id/confirmPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Confirm your password"
+                android:inputType="textPassword"
+                android:minHeight="48dp" />
+
+            <Button
+                android:id="@+id/registerButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Register"
+                android:layout_marginTop="16dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
+
+
+
+
